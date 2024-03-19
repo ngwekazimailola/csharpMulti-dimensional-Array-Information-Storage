@@ -1,0 +1,14 @@
+C:\Users\hanna\pg521\multiDimensionalArrayInformationStorage\bin\Debug\net8.0\multiDimensionalArrayInformationStorage.exe
+C:\Users\hanna\pg521\multiDimensionalArrayInformationStorage\bin\Debug\net8.0\multiDimensionalArrayInformationStorage.deps.json
+C:\Users\hanna\pg521\multiDimensionalArrayInformationStorage\bin\Debug\net8.0\multiDimensionalArrayInformationStorage.runtimeconfig.json
+C:\Users\hanna\pg521\multiDimensionalArrayInformationStorage\bin\Debug\net8.0\multiDimensionalArrayInformationStorage.dll
+C:\Users\hanna\pg521\multiDimensionalArrayInformationStorage\bin\Debug\net8.0\multiDimensionalArrayInformationStorage.pdb
+C:\Users\hanna\pg521\multiDimensionalArrayInformationStorage\obj\Debug\net8.0\multiDimensionalArrayInformationStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanna\pg521\multiDimensionalArrayInformationStorage\obj\Debug\net8.0\multiDimensionalArrayInformationStorage.AssemblyInfoInputs.cache
+C:\Users\hanna\pg521\multiDimensionalArrayInformationStorage\obj\Debug\net8.0\multiDimensionalArrayInformationStorage.AssemblyInfo.cs
+C:\Users\hanna\pg521\multiDimensionalArrayInformationStorage\obj\Debug\net8.0\multiDimensionalArrayInformationStorage.csproj.CoreCompileInputs.cache
+C:\Users\hanna\pg521\multiDimensionalArrayInformationStorage\obj\Debug\net8.0\multiDimensionalArrayInformationStorage.dll
+C:\Users\hanna\pg521\multiDimensionalArrayInformationStorage\obj\Debug\net8.0\refint\multiDimensionalArrayInformationStorage.dll
+C:\Users\hanna\pg521\multiDimensionalArrayInformationStorage\obj\Debug\net8.0\multiDimensionalArrayInformationStorage.pdb
+C:\Users\hanna\pg521\multiDimensionalArrayInformationStorage\obj\Debug\net8.0\multiDimensionalArrayInformationStorage.genruntimeconfig.cache
+C:\Users\hanna\pg521\multiDimensionalArrayInformationStorage\obj\Debug\net8.0\ref\multiDimensionalArrayInformationStorage.dll
